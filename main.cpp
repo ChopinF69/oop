@@ -3,7 +3,7 @@
 //
 
 #include "ceva.h"
-
+//Implemntam clasa de FRACTIE
 Fractie Fractie::operator+(const Fractie &other_fractie) const
 {
     Fractie rezultat;
