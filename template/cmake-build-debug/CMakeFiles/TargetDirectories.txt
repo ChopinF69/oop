@@ -1,0 +1,3 @@
+/home/lazar/Desktop/oop/template/cmake-build-debug/CMakeFiles/template.dir
+/home/lazar/Desktop/oop/template/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lazar/Desktop/oop/template/cmake-build-debug/CMakeFiles/rebuild_cache.dir
