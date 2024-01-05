@@ -1,0 +1,20 @@
+Name: Alexandru Alexandru
+ID: JYSZG
+Notes: 8 7 1 2 3 
+
+Name: Lazar Lazar
+ID: HSFVO
+Notes: 0 0 2 9 1 
+
+Name: Andrei Andrei
+ID: VAGJQ
+Notes: 6 4 9 7 5 
+
+Name: Buga Buga
+ID: JGHHD
+Notes: 6 6 6 7 7 
+
+Name: Adelin Adelin
+ID: EIBYR
+Notes: 6 7 8 9 7 
+
